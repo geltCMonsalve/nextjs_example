@@ -8,6 +8,9 @@ interface Breadcrumb {
   active?: boolean;
 }
 
+console.log( Breadcrumbs );
+
+
 export default function Breadcrumbs({
   breadcrumbs,
 }: {
